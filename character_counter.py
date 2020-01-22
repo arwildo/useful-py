@@ -13,7 +13,8 @@ def charCounter(inputStr):
     return dict
 
 
-userStr = str("Test")
+print("Input : ")
+userStr = input(str())
 print(charCounter(userStr))
 
 
