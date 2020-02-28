@@ -1,6 +1,7 @@
 #!/bin/python3
 import requests
 
+
 def internet():
 
     connection = None

@@ -1,5 +1,6 @@
 #!/bin/python3
 
+
 def charCounter(inputStr):
     inputStr = inputStr.lower()
     dict = {}
@@ -17,6 +18,4 @@ print("Input : ")
 userStr = input(str())
 print(charCounter(userStr))
 
-
 # Output: {'t': 2, 'e': 1, 's': 1}
-
